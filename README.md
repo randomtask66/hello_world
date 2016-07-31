@@ -1,4 +1,4 @@
 # hello_world
 ##Github 
-
-### name is Mark and i would love to do a PhD.
+* Myname is Mark
+* I would love to do a PhD.
